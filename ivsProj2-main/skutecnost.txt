@@ -1,0 +1,4 @@
+Rozdiely od nami stanoveného plánu bolo posunutie dátumov implementácií týchto častí programu
+    -controller
+    -installer + uninstaller
+    -mockup

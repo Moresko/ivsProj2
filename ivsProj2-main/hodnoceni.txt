@@ -1,0 +1,4 @@
+xkasem02 110 (profiling, matematicka kniznica)
+xmores02 120 (vnutorna logika aplikacie, instalator, Makefile)
+xbotlo01 85 (GUI, dokumentacia)
+xkozak20 85 (Matematicka kniznica, prirucka, mockup)

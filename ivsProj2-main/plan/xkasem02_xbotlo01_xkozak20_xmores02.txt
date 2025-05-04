@@ -1,0 +1,30 @@
+Stanovené termíny:
+    Úloha                                   Osoba	        Dátum
+    Zalozenie github repo	                Jakub	        10.3.2023
+    Pripojenie do github repo	            VSETCI	        10.3.2023
+    Nainstalovanie vyvojoveho prostredia	VSETCI	        12.3.2023
+    Diagram navrh aplikacie                 Jakub	        12.3.2023
+    ODOVZDANIE PRVA CAST	                VSETCI	        15.3.2023
+    Matematicka kniznica	                Katka       	23.3.2023
+    Matematicka kniznica testy	            Katka + Jakub	30.3.2023
+    Proffiling app	                        Jakub	        30.3.2023
+    Calculator GUI	                        Filip	        25.3.2023
+    Controller	                            Martin	        30.3.2023
+    Makefile + installer + uninstaller	    Jakub	        20.4.2023
+    Dokumentacia	                        Filip	        24.4.2023
+    Uzivetelska prirucka	                Katka	        24.4.2023
+    Mockup	                                Katka	        20.4.2023
+    Debugging screenshots	                Martin	        20.4.2023
+    Pripravenie na odovzdanie	            VSETCI	        25.4.2023
+    ODOVZDANIE FINAL	                    Jakub	        26.4.2023
+
+Zvolené komunikačné kanály:
+    - Discord - Bežná komunikácia
+    - PRAVIDLO: Meeting na zdieľanie updatov - každý pondelok
+
+System pro spravu verzi:
+    - GIT	verzovanie
+    - Github	hosting
+
+Informace pro cvičící:
+    nahliadnuť do repozitáře je možné na https://github.com/ponik73/ivsProj2
